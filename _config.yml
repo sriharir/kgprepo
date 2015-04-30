@@ -3,7 +3,7 @@ title: KGP Notice Board
 email: thescholarsavenue@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   An initiative by The Scholars' Avenue. Read About for instructions to post.
-baseurl: "/kgprepo/" # the subpath of your site, e.g. /blog/
+baseurl: "/kgprepo" # the subpath of your site, e.g. /blog/
 url: "http://sriharir.github.io" # the base hostname & protocol for your site
 
 # Build settings

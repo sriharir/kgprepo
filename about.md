@@ -4,8 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+The KGP notice board is an initiative by The Scholars' Avenue to let societies, and event managers reach out to the IIT Kharagpur demography via TSA. To post in this forum follow this link, and 'add an issue' with a title that briefly describes the event, and add a picture or further description in the content area. Appropriate content would be added to the notice board.
